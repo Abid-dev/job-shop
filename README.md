@@ -1,4 +1,7 @@
-# Setup
+# Job Shop
+This was an advancement of a project I started and worked on with pluralsight projects. Here I modify and jazz up the UI using the bulma framework and add additional functionality, interaction and features.
+
+The original project repository is https://github.com/pluralsight-projects/python-build-cli-planner-app
 
 ## Create Virtual Environment
 
